@@ -1,0 +1,85 @@
+======================================== Boot Time ========================================
+Boot Time: 2022/11/23 12:41:4
+
+======================================== System Information ========================================
+System: Windows
+Node Name: DESKTOP-LFOP9M7
+Release: 10
+Version: 10.0.19042
+Machine: AMD64
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+
+======================================== CPU Info ========================================
+Physical cores:8
+Total cores:16
+======================================== Disk Information ========================================
+Max Frequency: 2904.00Mhz
+Min Frequency: 0.00Mhz
+Current Frequency: 2904.00Mhz
+
+CPU Usage Per Core:
+Core 0: 10.8%
+Core 1: 0.0%
+Core 2: 4.6%
+Core 3: 0.0%
+Core 4: 7.7%
+Core 5: 0.0%
+Core 6: 0.0%
+Core 7: 3.1%
+Core 8: 3.1%
+Core 9: 0.0%
+Core 10: 4.6%
+Core 11: 1.6%
+Core 12: 12.7%
+Core 13: 0.0%
+Core 14: 1.5%
+Core 15: 31.3%
+Total CPU Usage: 5.7%
+
+======================================== Disk Information ========================================
+Partitions and Usage:
+=== Device: C:\ ===
+  Mountpoint: C:\
+  File system type: NTFS
+  Total Size: 476.33GB
+  Used: 65.96GB
+  Free: 410.37GB
+  Percentage: 13.8%
+=== Device: D:\ ===
+  Mountpoint: D:\
+  File system type: 
+=== Device: E:\ ===
+  Mountpoint: E:\
+  File system type: FAT32
+  Total Size: 14.52GB
+  Used: 1.67GB
+  Free: 12.85GB
+  Percentage: 11.5%
+Total read: 41.47GB
+Total write: 46.91GB
+
+======================================== Memory Information ========================================
+Total: 15.78GB
+Available: 9.10GB
+Used: 6.68GB
+Percentage: 42.4%
+==================== SWAP ====================
+Total: 2.38GB
+Free: -1282068480.00B
+Used: 3.57GB
+Percentage: 150.3%
+
+======================================== Network Information ========================================
+=== Interface: Ethernet ===
+=== Interface: Ethernet ===
+  IP Address: 192.168.1.18
+  Netmask: 255.255.252.0
+  Broadcast IP: None
+=== Interface: Ethernet ===
+=== Interface: Loopback Pseudo-Interface 1 ===
+  IP Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Broadcast IP: None
+=== Interface: Loopback Pseudo-Interface 1 ===
+Total Bytes Sent: 3.36MB
+Total Bytes Received: 109.09MB
